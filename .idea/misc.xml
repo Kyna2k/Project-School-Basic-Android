@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Assignment/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/background_color.xml" value="0.265" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/background_gradient.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/background_icon.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/background_text.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/border_avatar.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/border_background.xml" value="0.265" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/border_radius_button.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/border_search.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/border_topline.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/border_while_btn.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.265" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.265" />
+        <entry key="..\:/Assignment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.275" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_danhsachlop.xml" value="0.26495726495726496" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_danhsinhvien.xml" value="0.26495726495726496" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_home.xml" value="0.19295558958652373" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_main.xml" value="0.19924529018924966" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_themlop.xml" value="0.26495726495726496" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_themsinhvien.xml" value="0.26495726495726496" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_thongtinsinhvien.xml" value="0.26495726495726496" />
+        <entry key="..\:/Assignment/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.164" />
+        <entry key="..\:/Assignment/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.164" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/background_avatar_thongtin.xml" value="0.138" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/background_diaglog.xml" value="0.297" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/background_spinner.xml" value="0.297" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/background_text.xml" value="0.275" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/background_thongtin_sinhvien.xml" value="0.275" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/border_background.xml" value="0.3255" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/cursor_input_color.xml" value="0.3255" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.3255" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/ic_baseline_more_24.xml" value="0.3255" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/drawable/ic_baseline_read_more_24.xml" value="0.275" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/activity_danhsachlop.xml" value="0.2719298245614035" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/activity_danhsinhvien.xml" value="0.2719298245614035" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/activity_home.xml" value="0.2719298245614035" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/activity_main.xml" value="0.2719298245614035" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/activity_themlop.xml" value="0.2719298245614035" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/activity_themsinhvien.xml" value="0.2719298245614035" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/activity_thongtinlop.xml" value="0.19924529018924966" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/activity_thongtinsinhvien.xml" value="0.2719298245614035" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/comfirmdiaglog.xml" value="0.2264151024877837" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/diaglog_capnhat.xml" value="0.24818840579710144" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/dialog_capnhatlop.xml" value="0.2264151024877837" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/dialog_comfirm_cancel.xml" value="0.2264151024877837" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/dialog_xoa_lop.xml" value="0.1381340579710145" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/item_lop.xml" value="0.2264151024877837" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/item_sinhvien.xml" value="0.2719298245614035" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/spinner_avatar.xml" value="0.2719298245614035" />
+        <entry key="..\:/FPT Polytechnic/FPT polytechnic/android co bang/assignment/app/src/main/res/layout/spinner_item.xml" value="0.4528302049755674" />
+        <entry key="..\:/Lab3/app/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/background_gradient.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/background_icon.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/background_spinner.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/background_text.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/border_background.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/border_radius_button.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/border_search.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/border_while_btn.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/cursor_input_color.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.275" />
+        <entry key="..\:/assignment/app/src/main/res/layout/activity_danhsachlop.xml" value="0.26507054296707994" />
+        <entry key="..\:/assignment/app/src/main/res/layout/activity_danhsinhvien.xml" value="0.26507054296707994" />
+        <entry key="..\:/assignment/app/src/main/res/layout/activity_home.xml" value="0.26507054296707994" />
+        <entry key="..\:/assignment/app/src/main/res/layout/activity_main.xml" value="0.2988679352838745" />
+        <entry key="..\:/assignment/app/src/main/res/layout/activity_themlop.xml" value="0.26507054296707994" />
+        <entry key="..\:/assignment/app/src/main/res/layout/activity_themsinhvien.xml" value="0.26507054296707994" />
+        <entry key="..\:/assignment/app/src/main/res/layout/activity_thongtinsinhvien.xml" value="0.26507054296707994" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

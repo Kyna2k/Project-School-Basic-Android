@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Danhsachlop_activity"
+    android:orientation="vertical"
+    android:background="@drawable/background_gradient">
+    <ImageView
+        android:id="@+id/btn_back_themlop"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_width="26dp"
+        android:layout_height="26dp"
+        android:src="@drawable/icon_button_back"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DANH SÁCH LỚP"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="@color/white"
+        android:padding="15dp"
+        android:textStyle="bold"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="26dp"
+            android:layout_marginEnd="26dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            app:boxStrokeColor="@color/gravity"
+            app:hintTextColor="@color/gravity"
+            app:startIconDrawable="@drawable/ic_baseline_search_24"
+            >
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edit_timlop"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:padding="0dp"
+                android:textCursorDrawable="@drawable/cursor_input_color"
+                android:hint="Tìm tên,mã"
+                />
+        </com.google.android.material.textfield.TextInputLayout>
+        <ListView
+            android:id="@+id/list_danhsachlop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</LinearLayout>

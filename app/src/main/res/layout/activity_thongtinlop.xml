@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".thongtinlop_activity"
+    android:orientation="vertical"
+    android:background="@drawable/background_gradient">
+    <ImageView
+        android:id="@+id/btn_back_themlop"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:src="@drawable/icon_button_back"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="THÔNG TIN LỚP"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp">
+        <LinearLayout
+            android:id="@+id/bangthongtin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_thongtin_sinhvien"
+            android:orientation="horizontal"
+            android:paddingTop="40dp"
+            android:paddingBottom="40dp">
+            <ImageView
+                android:id="@+id/hinhlop"
+                android:layout_gravity="clip_vertical"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="25dp"
+                android:src="@mipmap/js"/>
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/tenlop"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="24sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    android:text="Tên lớp"/>
+                <TextView
+                    android:id="@+id/malop"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="22sp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:text="Mã lớp"/>
+                <TextView
+                    android:id="@+id/chiso"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:text="100"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_capnhatlop"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bangthongtin"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:padding="10dp"
+            android:text="Cập nhật"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            app:strokeColor="@color/black"
+            app:strokeWidth="3dp" />
+
+        <Button
+            android:id="@+id/btn_xoalop"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bangthongtin"
+            android:layout_toEndOf="@+id/btn_capnhatlop"
+            android:backgroundTint="@color/white"
+            android:padding="10dp"
+            android:text="Xóa"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            app:strokeColor="@color/black"
+            app:strokeWidth="3dp" />
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Danh sinh viên của lớp"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:background="@color/white"/>
+    <ListView
+        android:id="@+id/lvSinhVien"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white" />
+
+</LinearLayout>
